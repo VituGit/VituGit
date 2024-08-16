@@ -11,7 +11,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-viniciusaquino123@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusaquino123@gmail.com)](mailto:viniciusaquino123@gmail.com)
 [![Download CV](https://img.shields.io/badge/Download%20CV-Click%20to%20Download-blue?style=flat-square&logo=download)](https://github.com/vinnyaquino/vinnyaquino/blob/main/Curriculo%20-%20Vinicius%20Aquino.pdf)
 -->
-Hello! I'm Victor Gurgel, a Web Developer at ZlinPay, experienced with PHP 8+, Laravel, MySQL, React, and Tailwind CSS. Currently pursuing a Bachelor's degree in Information Technology at IMD/UFRN and holding a Technical degree in Internet Informatics from the same institution.
+Hello! I'm Victor Gurgel, a Web Developer at ZlinPay, experienced with PHP 8+, Laravel, MySQL, React, and Tailwind CSS. Currently pursuing a Bachelor's degree in Software Engineering at Unopar and holding a Technical degree in Informatic from IMD/UFRN.
 
 I have a strong passion for web development and creating solutions that positively impact users. I'm always seeking challenges that allow me to grow professionally and make meaningful contributions. Additionally, I am enthusiastic about Linux, open-source technologies, cybersecurity, and exploring new advancements in these areas.
 
