@@ -18,7 +18,7 @@ I have a strong passion for web development and creating solutions that positive
 <h4 align="center"><strong>Some Technologies, Languages, Frameworks and others</strong><h4/>
 
 <div align="center">
-<!-- Laravel --> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"  alt="Laravel" />
+<!-- Laravel --> <img src="https://img.shields.io/badge/Laravel❤️-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"  alt="Laravel" />
 <!-- PHP --> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 <!-- MySQL --> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <!-- Amazon AWS --> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud" />
