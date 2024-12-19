@@ -22,7 +22,7 @@ I have a strong passion for web development and creating solutions that positive
 <!-- PHP --> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 <!-- MySQL --> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <!-- Amazon AWS --> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud" />
-<!-- NGINX --> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
+<!-- NGINX --> <img src="https://img.shields.io/badge/vuejs?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
 <!-- Apache --> <img src="https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
 <!-- Docker --> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <!-- Javascript --> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="MySQL" />
